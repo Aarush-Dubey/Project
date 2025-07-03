@@ -1,0 +1,5 @@
+module CRecorder {
+    header "recorder.h"
+    link "record"
+    export *
+}
